@@ -1,0 +1,7 @@
+Packed mpreal into a shared library
+    
+I added configure.py and modified makefile of the mpreal library
+from Pavel Holoborodko (http://www.holoborodko.com/pavel/mpfr/) in
+order to create a shared library libmpreal.so and install it in
+the desired folder.
+
